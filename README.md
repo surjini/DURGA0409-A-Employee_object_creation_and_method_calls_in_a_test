@@ -1,6 +1,6 @@
 ## DURGA0409-A-Employee_object_creation_and_method_calls_in_a_test
-## REG NUM :
-## NAME :
+## REG NUM :25015534
+## NAME :R.Surjini
 ## EXPERIMENT –6 Design a SystemVerilog class Employee and demonstrate its usage through object creation and method calls in a testbench.
  ## Aim
 To design a SystemVerilog class named Employee with data members and methods, and verify the usage of class through object creation, method calling, salary modification, and bonus calculation using EDA Playground.
@@ -88,6 +88,8 @@ endmodule
 ```
 
 ## Output
+![screenshot 2025-11-19 090452](https://github.com/user-attachments/assets/8bfab5db-be2f-4371-bec9-0ea116c8abfb)
+
 
 ## Result
 
