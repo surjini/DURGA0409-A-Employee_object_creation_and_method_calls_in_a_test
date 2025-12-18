@@ -88,7 +88,6 @@ endmodule
 ```
 
 ## Output
-![screenshot 2025-11-19 090452](https://github.com/user-attachments/assets/8bfab5db-be2f-4371-bec9-0ea116c8abfb)
 
 
 ## Result
