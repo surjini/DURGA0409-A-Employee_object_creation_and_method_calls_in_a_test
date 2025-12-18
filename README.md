@@ -88,6 +88,7 @@ endmodule
 ```
 
 ## Output
+![WhatsApp Image 2025-11-18 at 9 41 23 AM](https://github.com/user-attachments/assets/335326d0-234e-4301-a497-930763ff06c3)
 
 
 ## Result
